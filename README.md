@@ -24,3 +24,6 @@ Kaggle üzerinden alınmıştır. Veri seti 10.000'den fazla örnek içermekte v
 ## ✨ Katılımcı:
 Ad Soyad:NURAY LARA AÇAR
 Bootcamp: Akbank Makine Öğrenmesine Giriş (2025)
+
+## 🔗 Kaggle Proje Linki:
+[Kaggle Notebook'u burada görüntüleyebilirsiniz](https://www.kaggle.com/kendi-linkin)
