@@ -30,5 +30,7 @@ https://colab.research.google.com/drive/1N_McgVfvO9L9F96TrvIDEjjnF2SIbk8I#scroll
 https://www.kaggle.com/code/nuraylaraaar/notebook14b93ac66c
 
 ## 🗂 Kullanılan Veri Seti:
+Veri seti Kaggle’dan alınmıştır ve proje ile birlikte repo içinde de bulunmaktadır.
 Bu projede kullanılan veri setine aşağıdaki bağlantıdan ulaşabilirsiniz:  
 [Veri Seti - Kaggle]:https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/dataa
+Repo içindeki veri dosyaları: data/train.csv , data/test.csv
